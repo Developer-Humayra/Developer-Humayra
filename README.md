@@ -1,6 +1,6 @@
 
 <h2>Hello! Welcome to my profile.   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2><img  align='right' src="https://c7.uihere.com/files/460/923/629/5b95b150a626e.jpg">
-I am Humayra Khanom, an exuberant tech enthusiast, and a self taught programmer. Even though I am not an impeccable programmer, I love the world of coding. I am trying to create magic with 0's and 1's
+I am Humayra Khanom 😉, an exuberant tech enthusiast, and a self taught programmer. Even though I am not an impeccable programmer, I love the world of coding. I am trying to create magic with 0's and 1's
 
 
 </br>
@@ -21,13 +21,13 @@ I am Humayra Khanom, an exuberant tech enthusiast, and a self taught programmer.
 
 - 🤔 I hope to be a developer 🐧
 
-- 💬 Ask me about: HTML, CSS, JavaScript and ReactJs
+- 💬 Ask me about: HTML, CSS, JavaScript and ReactJs 😇
 
-- 📫 Please email via developerhumayra2020@gmail.com to reach me.
+- 📫 Please email via developerhumayra2020@gmail.com to reach me 📧
 
-- 😄 Pronouns:She/Her
+- 😄 Pronouns:She/Her 🙋‍♀️
 
-- ⚡ Fun fact:I love to programming and travelling
+- ⚡ Fun fact:I love to programming and travelling 👩‍💻 🍂
 </br>
 </br>
 
