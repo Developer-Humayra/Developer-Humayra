@@ -3,7 +3,7 @@
 I am Humayra Khanom, an exuberant tech enthusiast, and a self taught programmer. Even though I am not an impeccable programmer, I love the world of coding. I am trying to create magic with 0's and 1's
 
 
-<br/>
+</br>
 </br>
 </br>
 
@@ -15,11 +15,11 @@ I am Humayra Khanom, an exuberant tech enthusiast, and a self taught programmer.
 ## About Me:
 
 
-- 🔭 I’m currently working on Web Development
+- 🔭 I’m currently working on Web Development 🏆
 
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning PHP 👨🏻‍💻
 
-- 🤔 I hope to be a developer. 🐧
+- 🤔 I hope to be a developer 🐧
 
 - 💬 Ask me about: HTML, CSS, JavaScript and ReactJs
 
