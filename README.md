@@ -38,7 +38,7 @@ I am Humayra Khanom 😉, an exuberant tech enthusiast, and a self taught progra
 </br>
 </br>
 
- <p align="Right">
+ <p align="left">
  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Humayra&theme=dracula"/>
  
   
