@@ -1,16 +1,14 @@
 
 <h2> Hello, this is Humayra  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2><img  align='right' src="https://c7.uihere.com/files/460/923/629/5b95b150a626e.jpg">
-I am Annu Jolly, an exuberant tech enthusiast, and a self taught programmer. Even though I am not an impeccable programmer, I love the world of coding. I am trying to create magic with 0's and 1's
+I am Humayra Khanom, an exuberant tech enthusiast, and a self taught programmer. Even though I am not an impeccable programmer, I love the world of coding. I am trying to create magic with 0's and 1's
 
 <br/>
-[![Gmail Badge](https://img.shields.io/badge/-developerhumayra2020@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:developerhumayra2020@gmail.com)](mailto:developerhumayra2020@gmail.com)
+### "The success of life is not measured by the path you have conquered, but by the difficulties you have overcome along the way." ✍🏻
 
 
 
-## :computer: Technologies I Love
-* Front-end development using  Javascript, jquery, CSS, Bootstrap 
-* Backend development using Flask, MySQL, Postgress
-* Blockchain
+
+
 
 
 ## Programming Languages
