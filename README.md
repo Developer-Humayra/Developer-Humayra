@@ -6,19 +6,21 @@ I am Humayra Khanom, an exuberant tech enthusiast, and a self taught programmer.
 <br/>
 
 
-### "The success of life is not measured by the path you have conquered, but by the difficulties you have overcome along the way." ✍🏻
+>"The success of life is not measured by the path you have conquered, but by the difficulties you have overcome along the way." ✍🏻
 
 
-Here are some ideas to get you started:
+**About Me:
 
 
 - 🔭 I’m currently working on Web Development
 
 - 🌱 I’m currently learning PHP
 
+- 🤔 I hope to be a developer. 🐧
+
 - 💬 Ask me about: HTML, CSS, JavaScript and ReactJs
 
-- 📫 How to reach me: ...
+- 📫 Please email via developerhumayra2020@gmail.com to reach me.
 
 - 😄 Pronouns:She/Her
 
