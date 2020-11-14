@@ -37,11 +37,9 @@ I am Humayra Khanom, an exuberant tech enthusiast, and a self taught programmer.
 
 </br>
 </br>
-Skills : Python, Java, C/C++, Javascript, PHP, MongoDB, MySQL, PostgreSQL, Sqlite  
-Tools : Git, Github, Bitbucket, VS Code
-  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Humayra&layout=compact)](https://github.com/suvashsumon/)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Humayra&layout=compact)](https://github.com/Developer-Humayra/)
 
 <img src="https://github-readme-stats.vercel.app/api?username=Developer-Humayra&show_icons=true" style="text-align: center;">
 </br>
