@@ -2,7 +2,6 @@
 <h2> Hello, this is Humayra  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2><img  align='right' src="https://c7.uihere.com/files/460/923/629/5b95b150a626e.jpg">
 I am Humayra Khanom, an exuberant tech enthusiast, and a self taught programmer. Even though I am not an impeccable programmer, I love the world of coding. I am trying to create magic with 0's and 1's
 
-----
 
 <br/>
 
@@ -10,9 +9,20 @@ I am Humayra Khanom, an exuberant tech enthusiast, and a self taught programmer.
 ### "The success of life is not measured by the path you have conquered, but by the difficulties you have overcome along the way." ✍🏻
 
 
+Here are some ideas to get you started:
 
 
+- 🔭 I’m currently working on Web Development
 
+- 🌱 I’m currently learning PHP
+
+- 💬 Ask me about: HTML, CSS, JavaScript and ReactJs
+
+- 📫 How to reach me: ...
+
+- 😄 Pronouns:She/Her
+
+- ⚡ Fun fact:I love to programming and travelling
 
 
 ## Programming Languages
