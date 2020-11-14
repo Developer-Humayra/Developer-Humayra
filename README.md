@@ -5,9 +5,11 @@ I am Humayra Khanom, an exuberant tech enthusiast, and a self taught programmer.
 
 <br/>
 </br>
+</br>
 
 
 >"The success of life is not measured by the path you have conquered, but by the difficulties you have overcome along the way." ✍🏻
+</br>
 
 
 ## About Me:
@@ -26,7 +28,8 @@ I am Humayra Khanom, an exuberant tech enthusiast, and a self taught programmer.
 - 😄 Pronouns:She/Her
 
 - ⚡ Fun fact:I love to programming and travelling
-
+</br>
+</br>
 
 ## Programming Languages:
 
