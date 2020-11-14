@@ -41,7 +41,7 @@ I am Humayra Khanom, an exuberant tech enthusiast, and a self taught programmer.
   
 <p align="center">
 <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Humayra"/>
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=Developer-Humayra&show_icons=true" style="text-align: center;">
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=Developer-Humayra&count_private=true&show_icons=true&include_all_commits=true"/>
 </p>
 </br>
 
