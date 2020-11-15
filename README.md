@@ -21,7 +21,7 @@ I am Humayra Khanom 😉, an exuberant tech enthusiast, and a self taught progra
 
 - 🤔 I hope to be a developer 🐧
 
-- 💬 Ask me about: HTML, CSS, JavaScript and ReactJs 😇
+- 💬 Ask me anything about HTML, CSS, JavaScript and ReactJs 😇
 
 - 📫 Please email via developerhumayra2020@gmail.com to reach me 📧
 
